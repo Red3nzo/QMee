@@ -1,3 +1,3 @@
 # QMee
 
-An app the follows MVC Format
+An app that follows MVC Format
